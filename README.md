@@ -1,12 +1,22 @@
-# Optimization Algorithm for Smart Video Surveillance System (SVSS)
+# A Novel Optimization Algorithm for Smart Video Surveillance System and Change Object Detection
 
 Welcome to the repository for my Bachelor's Final Year Project, where I conducted research and developed an **optimization algorithm for a Smart Video Surveillance System (SVSS)**. This project demonstrates a significant contribution to the field of smart surveillance systems by addressing optimization challenges to enhance performance, efficiency, and accuracy. The research conducted for this project was later presented and published in an international conference in Spain.
+
+**Paper Link:** https://link.springer.com/chapter/10.1007/978-3-031-48858-0_9
+
+<img width="1329" alt="Screenshot 2025-04-18 at 12 58 18 PM" src="https://github.com/user-attachments/assets/0357fefe-5a15-4f71-8ddb-3dcca1da639d" />
+
+---
+
+<img width="973" alt="Screenshot 2025-04-18 at 12 59 30 PM" src="https://github.com/user-attachments/assets/91920c99-a8e7-47c8-9222-5132b0ea62aa" />
+
+---
+
+<img width="682" alt="Screenshot 2025-04-18 at 1 00 09 PM" src="https://github.com/user-attachments/assets/2d2dd3cd-b56d-4bf7-a0a8-c9ab86c55e43" />
 
 ---
 
 ## Purpose
-
-The purpose of this project was to develop an **optimization algorithm** for Smart Video Surveillance Systems (SVSS) to address the following challenges:
 
 - Enhance real-time surveillance performance.
 - Minimize computational costs and resource usage for large-scale deployments.
@@ -99,6 +109,23 @@ To set up the project locally:
    ```
 
 ---
+
+<img width="745" alt="Screenshot 2025-04-18 at 1 00 18 PM" src="https://github.com/user-attachments/assets/5a9a5f10-10cf-4c2e-858f-246f68afb97b" />
+
+---
+
+<img width="997" alt="Screenshot 2025-04-18 at 1 00 37 PM" src="https://github.com/user-attachments/assets/d70282cf-2d4e-49b1-a860-c21a53a1f759" />
+
+---
+
+<img width="598" alt="Screenshot 2025-04-18 at 1 00 49 PM" src="https://github.com/user-attachments/assets/3ed893b4-e04e-4fec-9c6f-ecba2ac41fa8" />
+
+---
+
+<img width="868" alt="Screenshot 2025-04-18 at 1 00 54 PM" src="https://github.com/user-attachments/assets/c4ffeebf-c2d2-408b-b51a-8a3c566b0822" />
+
+---
+
 
 ## Usage
 
